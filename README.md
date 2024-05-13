@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=v4leng&icon=8&color=12)](https://visitcount.itsvg.in)
 
-
 <!--### ⚙️ &nbsp;GitHub Analytics -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rocoide&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rocoide&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+
+<img align="right" height="150" src="https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif"  />
