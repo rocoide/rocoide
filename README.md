@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 
-
 <!--### ⚙️ &nbsp;GitHub Analytics -->
 <p align="center">
     <!-- Enlace deshabilitado -->
@@ -28,8 +27,11 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+
+<!--### gift -->
 <p align="center">
-    <img align="center" height="180em" src="https://i.pinimg.com/originals/2a/cf/48/2acf48725aa805887ed63e9fcf75c5de.gif"/>
+    <!-- Enlace deshabilitado -->
+    <a href="#" disabled>
+        <img align="center" height="180em" src="https://i.pinimg.com/originals/2a/cf/48/2acf48725aa805887ed63e9fcf75c5de.gif"/>
+    </a>
 </p>
-
-
